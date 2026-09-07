@@ -460,7 +460,6 @@ const NANOGPT_PROVIDERS = [
     },
 ];
 
-
 const OPENROUTER_PROVIDER_WARNING_SELECTORS = {
     '#openrouter_providers_text': {
         fallbackSelector: '#openrouter_allow_fallbacks_textgenerationwebui',
