@@ -80,6 +80,7 @@
 - PR #827 (2026-09-06) `fix(windows): sanitise forbidden characters in filenames on Windows`
 - PR #828 (2026-09-06) `fix(mobile): extend tagging input box`
 - PR #829 (2026-09-06) `fix(mobile): move the arrow a bit on the thought block`
+- PR #830 (2026-09-07) `fix(nano-gpt): restore the UI for picking provider and PAYG`
 
 ## v1.7.0
 
